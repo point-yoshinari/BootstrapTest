@@ -3,6 +3,12 @@
     padding-bottom: 20px;
 }
 
+/*voit ajaa bootstrap tyylien yli omilla muutoksilla käyttämällä !important toimintoa */
+
+.text-primary{
+    color: #ff0000 !important; 
+}
+
 /* Set padding to keep content from hitting the edges */
 .body-content {
     padding-left: 15px;
