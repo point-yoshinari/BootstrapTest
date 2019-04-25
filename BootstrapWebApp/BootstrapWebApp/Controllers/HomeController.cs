@@ -26,5 +26,10 @@ namespace BootstrapWebApp.Controllers
 
             return View();
         }
+
+        public ActionResult Ruudukko()
+        {
+            return View();
+        }
     }
 }
