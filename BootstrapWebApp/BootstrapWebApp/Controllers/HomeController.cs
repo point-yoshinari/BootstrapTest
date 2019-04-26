@@ -31,5 +31,10 @@ namespace BootstrapWebApp.Controllers
         {
             return View();
         }
+
+        public ActionResult Modal() // hiiren oikealla Add-View
+        {
+            return View();
+        }
     }
 }
